@@ -1,2 +1,2 @@
 # WindowPattern
-Program to print window pattern
+Python Program to print window pattern
